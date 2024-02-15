@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\bin\Debug\блокнотик в впф.exe.config
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\bin\Debug\блокнотик в впф.exe
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\bin\Debug\блокнотик в впф.pdb
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик в впф.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик в впф_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик в впф.g.resources
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик_в_впф.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик в впф.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик в впф.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик в впф.exe
+C:\Users\Пользователь\source\repos\блокнотик в впф\блокнотик в впф\obj\Debug\блокнотик в впф.pdb
